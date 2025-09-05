@@ -1,0 +1,24 @@
+{
+    "tracklists": [
+        "Small_HimalayanBowls_1",
+        "Small_HimalayanBowls_2",
+        "Small_HimalayanBowls_3"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Small_HimalayanBowls_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Small_HimalayanBowls_2": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Small_HimalayanBowls_3": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0,
+    "color": "#000000"
+}

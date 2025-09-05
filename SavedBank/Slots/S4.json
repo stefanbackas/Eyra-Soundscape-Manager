@@ -1,0 +1,20 @@
+{
+    "intervals": [],
+    "tracklist": "T4",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ]
+}

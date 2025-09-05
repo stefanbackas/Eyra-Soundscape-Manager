@@ -1,0 +1,16 @@
+{
+    "files": [
+        "Chimes_Koshi_Aqua_1min_1.mp3",
+        "Chimes_Zaphir_Sufi_4min_3.mp3"
+    ],
+    "fadetime": 8,
+    "slotfadetime": 12,
+    "volume": 0.065,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [],
+    "_source": "ProjectFolder",
+    "pools": []
+}

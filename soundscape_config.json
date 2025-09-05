@@ -1,0 +1,64 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "AM_Bowls_1",
+      "fadetime": 1,
+      "slotfadetime": 9,
+      "volume": 0.06,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "AMBell_1.mp3",
+        "AMBell_2.mp3",
+        "AMBell_3.mp3",
+        "AMBell_4.mp3",
+        "AMBell_5_1.mp3",
+        "AMBell_5_2.mp3",
+        "AMBowl_1.mp3",
+        "AMBowl_2.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "Hapi_BASE",
+      "fadetime": 1,
+      "slotfadetime": 2,
+      "volume": 0.082,
+      "loop": true,
+      "randomise": false,
+      "items": [
+        "HAPI_C-G base_30min_1.mp3"
+      ]
+    }
+  ],
+  "Slots" : [
+    {
+      "id": "s1",
+      "type": "Timeslot",
+      "slotexpression": "* * 23:23:00>23:24:00 * * * *",
+      "items": [
+        "AM_Bowls_1"
+      ]
+    },
+    {
+      "id": "s2",
+      "type": "Timeslot",
+      "slotexpression": "* * 23:24:00>23:25:00 * * * *",
+      "items": [
+        "Hapi_BASE"
+      ]
+    }
+  ],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

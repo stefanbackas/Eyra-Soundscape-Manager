@@ -1,0 +1,24 @@
+{
+    "tracklists": [
+        "AM_Bowls_1",
+        "Chimes_JinglesTUTTI_MIX_1",
+        "Chimes_KoshiZaphyr_MIX_1"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "AM_Bowls_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_JinglesTUTTI_MIX_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_KoshiZaphyr_MIX_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0,
+    "color": "#000000"
+}

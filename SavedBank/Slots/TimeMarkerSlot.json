@@ -1,0 +1,30 @@
+{
+    "intervals": [
+        "06:00:00>00:00:38"
+    ],
+    "tracklist": "TimeMarker",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "color": "#000000",
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "duration": "30",
+    "start_time": 0,
+    "end_time": 0,
+    "start_second": "0",
+    "stop_second": "38",
+    "start_minute": "0",
+    "stop_minute": "0"
+}

@@ -1,0 +1,33 @@
+{
+    "intervals": [
+        "06:00:00>23:00:00"
+    ],
+    "tracklist": "Ingen",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "start_second": "0",
+    "stop_second": "30",
+    "start_minute": "0",
+    "stop_minute": "*",
+    "weekdays": [
+        "Fredag",
+        "Tisdag",
+        "M\u00e5ndag",
+        "Onsdag",
+        "Torsdag"
+    ],
+    "months": [
+        "Januari"
+    ],
+    "weeks": [
+        "3",
+        "2"
+    ],
+    "years": [
+        "2024"
+    ],
+    "start_time": 0,
+    "end_time": 0
+}

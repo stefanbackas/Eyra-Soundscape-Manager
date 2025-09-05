@@ -1,0 +1,29 @@
+{
+    "files": [
+        "AMBell_1.mp3",
+        "AMBell_2.mp3",
+        "AMBell_3.mp3",
+        "AMBell_4.mp3",
+        "AMBell_5_1.mp3",
+        "AMBell_5_2.mp3",
+        "AMBowl_1.mp3",
+        "AMBowl_2.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 1,
+    "slotfadetime": 9,
+    "volume": 0.06,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [
+        "GroupTest",
+        "Chimes_Light_2"
+    ]
+}

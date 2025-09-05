@@ -1,0 +1,82 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "T1",
+      "fadetime": 2,
+      "slotfadetime": 4,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "tr1"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "T2",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 0.1,
+      "loop": false,
+      "randomise": true,
+      "items": [
+        "tr2"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "T3",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "tr3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "T4",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 0.1,
+      "loop": false,
+      "randomise": true,
+      "items": [
+        "tr4"
+      ]
+    },
+    {
+      "type": "Group",
+      "id": "G1",
+      "items": [
+        "T1",
+        "T2"
+      ]
+    },
+    {
+      "type": "Group",
+      "id": "G2",
+      "items": [
+        "T3",
+        "T4"
+      ]
+    },
+    {
+      "type": "Group",
+      "id": "G3",
+      "items": [
+        "G1",
+        "G2"
+      ]
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

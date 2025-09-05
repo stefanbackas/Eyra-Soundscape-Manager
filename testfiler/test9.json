@@ -1,0 +1,51 @@
+{
+    "tracklists": {
+        "tr111": {
+            "volume": 0.045,
+            "primary_group": "gr1111",
+            "groups": [
+                "gr1",
+                "gr1111"
+            ],
+            "files": [
+                "AMBell_1.mp3",
+                "AMBell_2.mp3",
+                "AMBell_3.mp3",
+                "AMBell_4.mp3",
+                "AMBell_5_1.mp3",
+                "AMBell_5_2.mp3",
+                "AMBowl_1.mp3",
+                "AMBowl_2.mp3"
+            ],
+            "fadetime": 1,
+            "slotfadetime": 2,
+            "loop": true,
+            "randomize": true,
+            "color": "#000000"
+        }
+    },
+    "groups": {
+        "gr1111": {
+            "tracklists": [
+                "tr111"
+            ],
+            "groups": [],
+            "tracklists_data": {
+                "tr1": {
+                    "original_volume": 0.09,
+                    "volume": 0.045,
+                    "primary_group": "gr1"
+                },
+                "tr111": {
+                    "original_volume": 0.045,
+                    "volume": 0.045,
+                    "primary_group": "gr1111"
+                }
+            },
+            "color": "#000000"
+        }
+    },
+    "pools": {},
+    "slots": {},
+    "master_volume": 84
+}

@@ -1,0 +1,26 @@
+{
+    "files": [
+        "Empty_12sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "HarmonyChime_1_A_1_TUNED.mp3",
+        "HarmonyChime_1_C_1_TUNED.mp3",
+        "HarmonyChime_1_C_2_TUNED.mp3",
+        "HarmonyChime_1_D_1_TUNED.mp3",
+        "HarmonyChime_1_D_2_TUNED.mp3",
+        "HarmonyChime_1_E_1_TUNED.mp3",
+        "HarmonyChime_1_E_2_TUNED.mp3",
+        "HarmonyChime_1_G_1_TUNED.mp3"
+    ],
+    "fadetime": 1,
+    "slotfadetime": 20,
+    "volume": 0.034,
+    "loop": true,
+    "randomize": true,
+    "primary_group": "HarmonyChimesTunedGr_1",
+    "groups": [
+        "HarmonyChimesTunedGr_1"
+    ],
+    "color": "#000000",
+    "_source": "ProjectFolder"
+}

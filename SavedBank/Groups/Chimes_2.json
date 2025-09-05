@@ -1,0 +1,21 @@
+{
+    "tracklists": [
+        "Chimes_Koshi_Aqua",
+        "Chimes_Koshi_Aria"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Chimes_Koshi_Aqua": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        },
+        "Chimes_Koshi_Aria": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        }
+    },
+    "volume": 1.0,
+    "_source": "ProjectFolder",
+    "pools": [],
+    "slots": []
+}

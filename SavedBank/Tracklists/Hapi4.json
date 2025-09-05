@@ -1,0 +1,26 @@
+{
+    "files": [
+        "HAPI_A_1.mp3",
+        "HAPI_A_2.mp3",
+        "HAPI_C high_1.mp3",
+        "HAPI_C high_2.mp3",
+        "HAPI_D high_1.mp3",
+        "HAPI_D high_2.mp3",
+        "HAPI_D_1.mp3",
+        "HAPI_D_2.mp3",
+        "HAPI_E high_1.mp3",
+        "HAPI_E high_2.mp3",
+        "HAPI_E_1.mp3",
+        "HAPI_E_2.mp3"
+    ],
+    "fadetime": 10,
+    "slotfadetime": 20,
+    "volume": 0.055,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": "HapiGroup_1",
+    "groups": [
+        "HapiGroup_1"
+    ]
+}

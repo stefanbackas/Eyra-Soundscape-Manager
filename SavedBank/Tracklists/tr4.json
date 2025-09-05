@@ -1,0 +1,17 @@
+{
+    "volume": 0.1,
+    "primary_group": null,
+    "groups": [],
+    "files": [
+        "Monochord_1.mp3",
+        "Monochord_2.mp3",
+        "Monochord_3.mp3",
+        "Monochord_4.mp3",
+        "Monochord_5.mp3",
+        "Monochord_6.mp3"
+    ],
+    "fadetime": 0,
+    "slotfadetime": 0,
+    "loop": false,
+    "randomize": false
+}

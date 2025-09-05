@@ -1,0 +1,18 @@
+{
+    "files": [
+        "Chimes_M_4min_1.mp3",
+        "Chimes_S_2min_3.mp3"
+    ],
+    "fadetime": 3,
+    "slotfadetime": 15,
+    "volume": 0.065,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [
+        "Chimes_1"
+    ],
+    "_source": "ProjectFolder",
+    "pools": []
+}

@@ -52,3 +52,7 @@ dist/
 *.sqlite3
 *.db
 *.db-journal
+
+# Ta med endast senaste Eyra_UI
+Eyra_UI_v*.py
+!Eyra_UI_v1.939.py

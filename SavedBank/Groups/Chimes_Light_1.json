@@ -1,0 +1,24 @@
+{
+    "tracklists": [
+        "Chimes_JinglesLIGHT_MIX_1",
+        "Chimes_Koshi_Aqua",
+        "Chimes_Cowbells"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Chimes_JinglesLIGHT_MIX_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Koshi_Aqua": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Cowbells": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0,
+    "color": "#000000"
+}

@@ -1,0 +1,23 @@
+{
+    "tracklists": [
+        "Harmony_Chimes_Tuned_1",
+        "Harmony_Chimes_Tuned_2",
+        "Harmony_Chimes_Tuned_3"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Harmony_Chimes_Tuned_1": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "Harmony_Chimes_Tuned_2": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "Harmony_Chimes_Tuned_3": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        }
+    },
+    "volume": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "tracklists": [
+        "tr3",
+        "tr4"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "tr3": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "tr4": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0
+}

@@ -1,0 +1,60 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "Naturljud _1",
+      "fadetime": 10,
+      "slotfadetime": 20,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2024-07-10_001.mp3",
+        "2024-07-10_002.mp3",
+        "2024-07-10_003.mp3",
+        "2024-07-10_004.mp3",
+        "2024-07-10_005.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "Naturljud_2",
+      "fadetime": 10,
+      "slotfadetime": 20,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2020-06-08_001.mp3",
+        "2020-06-08_002.mp3",
+        "2020-06-08_003.mp3",
+        "2020-07-06_003.mp3",
+        "2020-07-08_012.mp3"
+      ]
+    },
+    {
+      "type": "Pool",
+      "id": "Pool_1",
+      "randomize": true,
+      "items": [
+        "Naturljud _1",
+        "Naturljud_2"
+      ]
+    }
+  ],
+  "Slots" : [
+    {
+      "id": "Tidsslot_1",
+      "type": "Timeslot",
+      "slotexpression": "* * 07:00:00>23:00:00 * * * *",
+      "items": [
+        "Pool_1"
+      ]
+    }
+  ],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

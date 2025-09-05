@@ -1,0 +1,20 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "trrtr",
+      "fadetime": 5,
+      "slotfadetime": 10,
+      "volume": 0.0,
+      "loop": false,
+      "randomise": false,
+      "items": []
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

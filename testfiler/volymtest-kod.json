@@ -1,0 +1,55 @@
+{
+    "tracklists": {
+        "tr1": {
+            "volume": 0.1,
+            "primary_group": "gr1",
+            "groups": [
+                "gr1"
+            ],
+            "files": [],
+            "fadetime": 0,
+            "slotfadetime": 0,
+            "loop": false,
+            "randomize": false,
+            "color": "#000000"
+        },
+        "tr2": {
+            "volume": 0.05,
+            "primary_group": "gr1",
+            "groups": [
+                "gr1"
+            ],
+            "files": [],
+            "fadetime": 0,
+            "slotfadetime": 0,
+            "loop": false,
+            "randomize": false,
+            "color": "#000000"
+        }
+    },
+    "groups": {
+        "gr1": {
+            "tracklists": [
+                "tr1",
+                "tr2"
+            ],
+            "groups": [],
+            "tracklists_data": {
+                "tr1": {
+                    "original_volume": 0.1,
+                    "volume": 0.1,
+                    "primary_group": "gr1"
+                },
+                "tr2": {
+                    "original_volume": 0.1,
+                    "volume": 0.1,
+                    "primary_group": "gr1"
+                }
+            },
+            "color": "#000000"
+        }
+    },
+    "pools": {},
+    "slots": {},
+    "master_volume": 100
+}

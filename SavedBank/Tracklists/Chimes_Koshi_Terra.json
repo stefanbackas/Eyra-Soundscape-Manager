@@ -1,0 +1,16 @@
+{
+    "files": [
+        "Chimes_Koshi_Terra_1min_1.mp3",
+        "Chimes_Koshi_Terra_5min_3.mp3"
+    ],
+    "fadetime": 2,
+    "slotfadetime": 10,
+    "volume": 0.065,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [],
+    "_source": "ProjectFolder",
+    "pools": []
+}

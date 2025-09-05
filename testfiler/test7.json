@@ -1,0 +1,60 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "NatureMorning_Calm",
+      "fadetime": 10,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": []
+    },
+    {
+      "type": "Tracklist",
+      "id": "NatureMorning_Medium",
+      "fadetime": 15,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2019-04-27_001.mp3",
+        "2019-04-27_002.mp3",
+        "2019-04-27_003.mp3",
+        "2019-04-27_004.mp3",
+        "2022-05-25_001.mp3",
+        "2022-05-25_002.mp3",
+        "2022-05-25_003.mp3",
+        "2022-05-25_004.mp3",
+        "2022-05-25_005.mp3",
+        "2022-05-25_006.mp3",
+        "2022-05-25_007.mp3",
+        "2022-05-25_008.mp3",
+        "2022-05-25_009.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "NatureMorning_High",
+      "fadetime": 15,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2020-04-26_001.mp3",
+        "2020-04-26_002.mp3",
+        "2020-04-26_003.mp3",
+        "2020-04-26_004.mp3",
+        "2020-04-26_005.mp3"
+      ]
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

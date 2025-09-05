@@ -1,0 +1,23 @@
+{
+    "tracklists": [
+        "CrystalPLong_1",
+        "CrystalPLong_2",
+        "CrystalPLong_3"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "CrystalPLong_1": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "CrystalPLong_2": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "CrystalPLong_3": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        }
+    },
+    "volume": 1.0
+}

@@ -1,0 +1,59 @@
+{
+    "tracklists": [
+        "Hapi2",
+        "Hapi3",
+        "Hapi4",
+        "Hapi5",
+        "Hapi6",
+        "Hapi7",
+        "Hapi8",
+        "Hapi9",
+        "Hapi_BASE"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Hapi1": {
+            "original_volume": 0.045,
+            "volume": 0.045
+        },
+        "Hapi2": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi3": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi4": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi5": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi6": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi7": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi8": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi9": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi_BASE": {
+            "original_volume": 0.082,
+            "volume": 0.082
+        }
+    },
+    "volume": 1.0,
+    "color": "#000000",
+    "_source": "ProjectFolder"
+}

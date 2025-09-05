@@ -1,0 +1,28 @@
+{
+    "tracklists": [
+        "Chimes_Capiz",
+        "Chimes_JinglesDARK_MIX_1",
+        "Chimes_JinglesLIGHT_MIX_1",
+        "Chimes_JinglesTUTTI_MIX_1"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Chimes_Capiz": {
+            "original_volume": 0.069,
+            "volume": 0.069
+        },
+        "Chimes_JinglesDARK_MIX_1": {
+            "original_volume": 0.042,
+            "volume": 0.042
+        },
+        "Chimes_JinglesLIGHT_MIX_1": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        },
+        "Chimes_JinglesTUTTI_MIX_1": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        }
+    },
+    "volume": 1.0
+}

@@ -1,0 +1,29 @@
+{
+    "intervals": [
+        "06:00:00>11:00:00"
+    ],
+    "tracklist": "NatureMorning_General",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "color": "#000000",
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "start_second": "0",
+    "stop_second": "*",
+    "start_minute": "0",
+    "stop_minute": "*",
+    "start_time": 0,
+    "end_time": 0
+}

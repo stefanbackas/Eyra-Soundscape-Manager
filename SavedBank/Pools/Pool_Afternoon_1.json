@@ -1,0 +1,18 @@
+{
+    "tracklists": [
+        "EmptyGroup_2",
+        "Chimes_KoshiZaphyr_MIX_1",
+        "Chimes_Koshi_Aqua",
+        "Chimes_Koshi_Aria",
+        "Chimes_Koshi_Ignis",
+        "Chimes_Koshi_Terra"
+    ],
+    "groups": [
+        "HarmonyChimes_1",
+        "SmallHim_1",
+        "Chimes_Light_1",
+        "Chimes_Light_2"
+    ],
+    "randomize": true,
+    "color": "#000000"
+}

@@ -1,0 +1,19 @@
+{
+    "files": [
+        "Empty_12sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 0,
+    "slotfadetime": 0,
+    "volume": 0.0,
+    "loop": true,
+    "randomize": false,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": []
+}

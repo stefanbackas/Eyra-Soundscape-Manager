@@ -1,0 +1,22 @@
+{
+    "intervals": [
+        "00:00:00-00:10:00"
+    ],
+    "tracklist": "Nature_Waves_1",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ]
+}

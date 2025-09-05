@@ -1,0 +1,23 @@
+{
+    "tracklists": [
+        "Hapi1",
+        "Hapi2",
+        "Hapi3"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Hapi1": {
+            "original_volume": 0.045,
+            "volume": 0.045
+        },
+        "Hapi2": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi3": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        }
+    },
+    "volume": 1.0
+}

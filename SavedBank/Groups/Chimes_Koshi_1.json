@@ -1,0 +1,29 @@
+{
+    "tracklists": [
+        "Chimes_Koshi_Aqua",
+        "Chimes_Koshi_Aria",
+        "Chimes_Koshi_Ignis",
+        "Chimes_Koshi_Terra"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Chimes_Koshi_Aqua": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Koshi_Aria": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Koshi_Ignis": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Koshi_Terra": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0,
+    "color": "#000000"
+}

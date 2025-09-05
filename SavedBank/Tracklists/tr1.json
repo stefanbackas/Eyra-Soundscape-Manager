@@ -1,0 +1,19 @@
+{
+    "volume": 0.1,
+    "primary_group": null,
+    "groups": [],
+    "files": [
+        "HarmonyChime_1_A_1_TUNED.mp3",
+        "HarmonyChime_1_C_1_TUNED.mp3",
+        "HarmonyChime_1_C_2_TUNED.mp3",
+        "HarmonyChime_1_D_1_TUNED.mp3",
+        "HarmonyChime_1_D_2_TUNED.mp3",
+        "HarmonyChime_1_E_1_TUNED.mp3",
+        "HarmonyChime_1_E_2_TUNED.mp3",
+        "HarmonyChime_1_G_1_TUNED.mp3"
+    ],
+    "fadetime": 8,
+    "slotfadetime": 3,
+    "loop": true,
+    "randomize": true
+}

@@ -1,0 +1,24 @@
+{
+    "files": [
+        "HimSing2_A_Sing_1.mp3",
+        "HimSing2_A_Sing_2.mp3",
+        "HimSing2_C_Sing_1.mp3",
+        "HimSing2_C_Sing_2.mp3",
+        "HimSing2_E_Sing_1.mp3",
+        "HimSing2_E_Sing_2.mp3",
+        "HimSing2_F_Sing_1.mp3",
+        "HimSing2_F_Sing_2.mp3",
+        "Empty_12sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 10,
+    "slotfadetime": 30,
+    "volume": 6,
+    "loop": true,
+    "randomize": true
+}

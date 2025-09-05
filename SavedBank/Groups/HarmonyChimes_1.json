@@ -1,0 +1,29 @@
+{
+    "tracklists": [
+        "Harmony_Chimes_Original_1",
+        "Harmony_Chimes_Original_2",
+        "Harmony_Chimes_Original_3",
+        "Harmony_Chimes_Original_4"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Harmony_Chimes_Original_1": {
+            "original_volume": 0.05,
+            "volume": 0.019
+        },
+        "Harmony_Chimes_Original_2": {
+            "original_volume": 0.05,
+            "volume": 0.019
+        },
+        "Harmony_Chimes_Original_3": {
+            "original_volume": 0.043,
+            "volume": 0.016
+        },
+        "Harmony_Chimes_Original_4": {
+            "original_volume": 0.049,
+            "volume": 0.019
+        }
+    },
+    "volume": 0.38,
+    "color": "#000000"
+}

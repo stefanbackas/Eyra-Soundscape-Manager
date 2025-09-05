@@ -1,0 +1,18 @@
+{
+    "tracklists": [
+        "Harmony_Chimes_Original_7",
+        "Harmony_Chimes_Original_8"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Harmony_Chimes_Original_7": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Harmony_Chimes_Original_8": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        }
+    },
+    "volume": 1.0
+}

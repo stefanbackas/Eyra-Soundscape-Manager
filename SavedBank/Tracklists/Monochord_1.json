@@ -1,0 +1,30 @@
+{
+    "files": [
+        "Monochord_1.mp3",
+        "Monochord_2.mp3",
+        "Monochord_3.mp3",
+        "Monochord_4.mp3",
+        "Monochord_5.mp3",
+        "Monochord_6.mp3",
+        "Empty_12sec.mp3",
+        "Empty_12sec.mp3",
+        "Empty_12sec.mp3",
+        "Empty_12sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_35sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 8,
+    "slotfadetime": 20,
+    "volume": 0.05,
+    "loop": true,
+    "randomize": true,
+    "primary_group": null,
+    "groups": [],
+    "color": "#000000"
+}

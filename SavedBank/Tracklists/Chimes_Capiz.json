@@ -1,0 +1,17 @@
+{
+    "files": [
+        "Chimes_Capiz_Shell_1.mp3"
+    ],
+    "fadetime": 4,
+    "slotfadetime": 6,
+    "volume": 0.069,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [
+        "Chimes_1"
+    ],
+    "_source": "ProjectFolder",
+    "pools": []
+}

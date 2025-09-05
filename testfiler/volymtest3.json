@@ -1,0 +1,20 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "sdfsd",
+      "fadetime": 10,
+      "slotfadetime": 22,
+      "volume": 0.046,
+      "loop": true,
+      "randomise": true,
+      "items": []
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

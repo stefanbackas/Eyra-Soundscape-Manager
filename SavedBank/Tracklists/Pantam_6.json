@@ -1,0 +1,31 @@
+{
+    "files": [
+        "Pantam_Ab_1.mp3",
+        "Pantam_Ab_2.mp3",
+        "Pantam_Ab_Low_1.mp3",
+        "Pantam_C_1.mp3",
+        "Pantam_C_2.mp3",
+        "Pantam_C_High_1.mp3",
+        "Pantam_C_High_2.mp3",
+        "Pantam_Eb_1.mp3",
+        "Pantam_Eb_2.mp3",
+        "Pantam_F_1.mp3",
+        "Pantam_F_2.mp3",
+        "Pantam_F_Low_1.mp3",
+        "Pantam_F_Low_2.mp3",
+        "Pantam_G_1.mp3",
+        "Pantam_G_2.mp3",
+        "Pantam_G_High_1.mp3",
+        "Pantam_G_High_2.mp3"
+    ],
+    "fadetime": 1,
+    "slotfadetime": 5,
+    "volume": 0.01,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": "PantamGroup_1",
+    "groups": [
+        "PantamGroup_1"
+    ]
+}

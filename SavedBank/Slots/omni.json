@@ -1,0 +1,28 @@
+{
+    "intervals": [
+        "00:00:01>00:00:00"
+    ],
+    "tracklist": "Ingen",
+    "group": "Pantam_demo_group",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "start_second": "0",
+    "stop_second": "*",
+    "start_minute": "0",
+    "stop_minute": "*",
+    "start_time": 0,
+    "end_time": 0
+}

@@ -1,0 +1,14 @@
+{
+    "intervals": [
+        {
+            "start": "07:00:00",
+            "end": "23:59:00"
+        }
+    ],
+    "tracklist": null,
+    "group": "Evening",
+    "pool": null,
+    "loop": false,
+    "randomize": false,
+    "color": "#000000"
+}

@@ -1,0 +1,104 @@
+{"Soundscapes" : [
+    {
+      "type": "Tracklist",
+      "id": "MORNING",
+      "fadetime": 4,
+      "slotfadetime": 5,
+      "volume": 0.8,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "Chimes_Capiz_Shell_1.mp3",
+        "Chimes_Capiz_Shell_2.mp3",
+        "Chimes_Capiz_Shell_3.mp3",
+        "Chimes_CowBells_2min_1.mp3",
+        "Chimes_CowBells_2min_2.mp3",
+        "Chimes_CowBells_2min_3.mp3",
+        "Chimes_CowBells_2min_4.mp3",
+        "Chimes_CowBells_4min_1.mp3",
+        "Chimes_Koshi_Aqua_1min_1.mp3",
+        "Chimes_Koshi_Aqua_1min_2.mp3",
+        "Chimes_Koshi_Aqua_1min_3.mp3",
+        "Chimes_Koshi_Aqua_1min_4.mp3",
+        "Chimes_Koshi_Aqua_3min_1.mp3",
+        "Chimes_Koshi_Aqua_3min_2.mp3",
+        "Chimes_Koshi_Aqua_3min_3.mp3",
+        "Chimes_Koshi_Aqua_5min_1.mp3",
+        "Chimes_Koshi_Aqua_5min_2.mp3",
+        "Chimes_Koshi_Aqua_5min_3.mp3",
+        "Chimes_Koshi_Aria_1min_1.mp3",
+        "Chimes_Koshi_Aria_1min_2.mp3",
+        "Chimes_Koshi_Aria_1min_3.mp3",
+        "Chimes_Koshi_Aria_3min_1.mp3",
+        "Chimes_Koshi_Aria_3min_2.mp3",
+        "Chimes_Koshi_Aria_3min_3.mp3",
+        "Chimes_Koshi_Ignis_1min_1.mp3",
+        "Chimes_Koshi_Ignis_1min_2.mp3",
+        "Chimes_Koshi_Ignis_1min_3.mp3",
+        "Chimes_Koshi_Ignis_3min_1.mp3",
+        "Chimes_Koshi_Ignis_3min_2.mp3",
+        "Chimes_Koshi_Ignis_3min_3.mp3",
+        "Chimes_Koshi_Ignis_5min_1.mp3",
+        "Chimes_Koshi_Ignis_5min_2.mp3",
+        "Chimes_Koshi_Ignis_5min_3.mp3",
+        "Chimes_Koshi_Terra_1min_1.mp3",
+        "Chimes_Koshi_Terra_1min_2.mp3",
+        "Chimes_Koshi_Terra_1min_3.mp3",
+        "Chimes_Koshi_Terra_5min_1.mp3",
+        "Chimes_Koshi_Terra_5min_2.mp3",
+        "Chimes_Koshi_Terra_5min_3.mp3",
+        "Chimes_M_4min_1.mp3",
+        "Chimes_M_4min_2.mp3",
+        "Chimes_M_4min_3.mp3",
+        "Chimes_M_4min_4.mp3",
+        "Chimes_S_2min_1.mp3",
+        "Chimes_S_2min_2.mp3",
+        "Chimes_S_2min_3.mp3",
+        "Chimes_Zaphir_Sufi_1min_1.mp3",
+        "Chimes_Zaphir_Sufi_1min_2.mp3",
+        "Chimes_Zaphir_Sufi_1min_3.mp3",
+        "Chimes_Zaphir_Sufi_4min_1.mp3",
+        "Chimes_Zaphir_Sufi_4min_2.mp3",
+        "Chimes_Zaphir_Sufi_4min_3.mp3"]
+    },
+    {
+      "type": "Tracklist",
+      "id": "DAY",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 1.0,
+      "loop": false,
+      "randomise": false,
+      "items": []
+    },
+    {
+      "type": "Group",
+      "id": "GROUP 1",
+      "items": [
+        "DAY"
+      ]
+    },
+    {
+      "type": "Pool",
+      "id": "POOL_1",
+      "randomize": true,
+      "items": [
+        "DAY"
+      ]
+    }
+  ],
+  "Timeslots" : [
+    {
+      "id": "SLOTTI2",
+      "slotexpression": "* * 06:00:00>23:00:00 * * * *",
+      "items": [
+        "MORNING"
+      ]
+    }
+  ],
+  "GeneralSettings" :[
+    {
+      "MasterVolume": 100
+    }
+]
+}

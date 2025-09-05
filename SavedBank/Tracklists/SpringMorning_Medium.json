@@ -1,0 +1,16 @@
+{
+    "files": [
+        "2019-04-27_001.mp3",
+        "2019-04-27_002.mp3",
+        "2019-04-27_003.mp3",
+        "2019-04-27_004.mp3"
+    ],
+    "fadetime": 15,
+    "slotfadetime": 40,
+    "volume": 0.1,
+    "loop": true,
+    "randomize": true,
+    "primary_group": null,
+    "groups": [],
+    "color": "#000000"
+}

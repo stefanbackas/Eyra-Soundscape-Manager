@@ -1,0 +1,51 @@
+{
+    "tracklists": [
+        "NatureMorning_General",
+        "AM_Bowls_1",
+        "Chimes_JinglesTUTTI_MIX_1",
+        "Chimes_KoshiZaphyr_MIX_1",
+        "Chimes_Koshi_Terra",
+        "Small_HimalayanBowls_1",
+        "Small_HimalayanBowls_3"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "NatureMorning_General": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "AM_Bowls_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_JinglesTUTTI_MIX_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_KoshiZaphyr_MIX_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Chimes_Koshi_Terra": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "HapiGroup_1": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "HapiBase": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Small_HimalayanBowls_1": {
+            "original_volume": 10,
+            "volume": 10
+        },
+        "Small_HimalayanBowls_3": {
+            "original_volume": 10,
+            "volume": 10
+        }
+    },
+    "volume": 1.0
+}

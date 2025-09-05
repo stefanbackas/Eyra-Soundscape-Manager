@@ -1,0 +1,36 @@
+{
+    "intervals": [
+        "07:00:00>07:15:00",
+        "08:49:00>09:07:00",
+        "10:34:00>10:49:00",
+        "12:20:00>12:35:00",
+        "14:23:00>14:37:00",
+        "15:41:00>15:56:00",
+        "17:33:00>17:49:00",
+        "19:38:00>19:55:00",
+        "21:36:00>21:50:00"
+    ],
+    "tracklist": "Ingen",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "start_second": "0",
+    "stop_second": "*",
+    "start_minute": "0",
+    "stop_minute": "*",
+    "start_time": 0,
+    "end_time": 0
+}

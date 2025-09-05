@@ -1,0 +1,50 @@
+{
+    "tracklists": [
+        "Hapi_BASE",
+        "Hapi2",
+        "Hapi3",
+        "Hapi4",
+        "Hapi5",
+        "Hapi6"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Hapi_BASE": {
+            "original_volume": 0.082,
+            "volume": 0.082
+        },
+        "Hapi2": {
+            "original_volume": 0.1,
+            "volume": 0.1
+        },
+        "Hapi3": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi4": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi5": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi6": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi7": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi8": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        },
+        "Hapi9": {
+            "original_volume": 0.055,
+            "volume": 0.055
+        }
+    },
+    "volume": 1.0
+}

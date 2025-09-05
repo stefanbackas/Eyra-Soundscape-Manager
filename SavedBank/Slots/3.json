@@ -1,0 +1,20 @@
+{
+    "intervals": [],
+    "tracklist": "AM_Bowls_1",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "files": [
+        "Time_marker_1.mp3"
+    ],
+    "fadetime": 0,
+    "slotfadetime": 0,
+    "volume": 0.1,
+    "loop": false,
+    "randomize": false,
+    "primary_group": null,
+    "groups": [],
+    "color": "#000000"
+}

@@ -1,0 +1,16 @@
+{
+    "files": [
+        "HAPI_C-G base_30min_1.mp3"
+    ],
+    "fadetime": 10,
+    "slotfadetime": 20,
+    "volume": 0.023,
+    "loop": true,
+    "randomize": false,
+    "original_volume": 10,
+    "primary_group": "HapiGroup",
+    "groups": [
+        "HapiGroup"
+    ],
+    "color": "#000000"
+}

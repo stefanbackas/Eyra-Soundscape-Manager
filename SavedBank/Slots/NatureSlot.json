@@ -1,0 +1,23 @@
+{
+    "intervals": [
+        "00:10:00-00:00:00"
+    ],
+    "tracklist": "Nature",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "color": "#000000"
+}

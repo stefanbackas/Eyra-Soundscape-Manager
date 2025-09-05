@@ -1,0 +1,26 @@
+{
+    "files": [
+        "Chimes_CowBells_2min_1.mp3",
+        "Chimes_CowBells_2min_2.mp3",
+        "Chimes_CowBells_2min_3.mp3",
+        "Chimes_CowBells_2min_4.mp3",
+        "Chimes_CowBells_4min_1.mp3",
+        "Empty_12sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_12sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 2,
+    "slotfadetime": 8,
+    "volume": 0.06,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [
+        "Chimes_Light_1"
+    ],
+    "_source": "ProjectFolder"
+}

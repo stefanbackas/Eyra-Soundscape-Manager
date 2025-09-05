@@ -1,0 +1,28 @@
+{
+    "intervals": [
+        "02:00:00>10:20:30"
+    ],
+    "tracklist": "Ingen",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "start_second": "0",
+    "stop_second": "*",
+    "start_minute": "3",
+    "stop_minute": "55",
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "start_time": 0,
+    "end_time": 0
+}

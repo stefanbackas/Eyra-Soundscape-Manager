@@ -1,0 +1,25 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "sfhdsfhfs",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 0.088,
+      "loop": false,
+      "randomise": false,
+      "items": []
+    },
+    {
+      "type": "Group",
+      "id": "rrr",
+      "items": []
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

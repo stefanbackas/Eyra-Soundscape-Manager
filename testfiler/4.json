@@ -1,0 +1,100 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "tr1",
+      "fadetime": 60,
+      "slotfadetime": 20,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2019-04-27_001.mp3",
+        "2019-04-27_002.mp3",
+        "2019-04-27_003.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "tr2",
+      "fadetime": 60,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2020-04-26_001.mp3",
+        "2020-04-26_002.mp3",
+        "2020-04-26_003.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "tr3",
+      "fadetime": 15,
+      "slotfadetime": 15,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "AMBell_1.mp3",
+        "AMBell_2.mp3",
+        "AMBell_3.mp3",
+        "AMBell_4.mp3",
+        "AMBell_5_1.mp3",
+        "AMBell_5_2.mp3",
+        "AMBowl_1.mp3",
+        "AMBowl_2.mp3"
+      ]
+    },
+    {
+      "type": "Group",
+      "id": "gr1",
+      "items": [
+        "tr1",
+        "tr2"
+      ]
+    },
+    {
+      "type": "Pool",
+      "id": "po1",
+      "randomize": true,
+      "items": [
+        "tr1",
+        "tr2"
+      ]
+    },
+    {
+      "type": "Pool",
+      "id": "po2",
+      "randomize": true,
+      "items": [
+        "tr3",
+        "gr1"
+      ]
+    }
+  ],
+  "Slots" : [
+    {
+      "id": "sl1",
+      "type": "Timeslot",
+      "slotexpression": "* * 06:00:00>23:00:00 * * * *",
+      "items": [
+        "gr1"
+      ]
+    },
+    {
+      "id": "sl2",
+      "type": "Timeslot",
+      "slotexpression": "0>59 * 07:00:00>23:00:00 0,6 1 2 2024",
+      "items": [
+        "tr1"
+      ]
+    }
+  ],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

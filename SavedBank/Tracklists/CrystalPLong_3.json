@@ -1,0 +1,30 @@
+{
+    "volume": 0.05,
+    "primary_group": null,
+    "groups": [],
+    "files": [
+        "Crystal PLong_A3_1.mp3",
+        "Crystal PLong_Ab2_1.mp3",
+        "Crystal PLong_B2_1.mp3",
+        "Crystal PLong_Bb2_1.mp3",
+        "Crystal PLong_C2_1.mp3",
+        "Crystal PLong_C3_1.mp3",
+        "Crystal PLong_C4_1.mp3",
+        "Crystal PLong_D2_1.mp3",
+        "Crystal PLong_D3_1.mp3",
+        "Crystal PLong_Db2_1.mp3",
+        "Crystal PLong_E2_1.mp3",
+        "Crystal PLong_E3_1.mp3",
+        "Crystal PLong_Eb2_1.mp3",
+        "Crystal PLong_F2_1.mp3",
+        "Crystal PLong_F3_1.mp3",
+        "Crystal PLong_G2_1.mp3",
+        "Crystal PLong_G3_1.mp3",
+        "Crystal PLong_Gb2_1.mp3"
+    ],
+    "fadetime": 1,
+    "slotfadetime": 30,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000"
+}

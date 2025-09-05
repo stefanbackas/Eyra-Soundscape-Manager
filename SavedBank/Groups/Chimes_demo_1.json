@@ -1,0 +1,18 @@
+{
+    "tracklists": [
+        "Chimes_KoshiZaphyr_MIX_1",
+        "Chimes_JinglesLIGHT_MIX_1"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Chimes_KoshiZaphyr_MIX_1": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        },
+        "Chimes_JinglesLIGHT_MIX_1": {
+            "original_volume": 0.065,
+            "volume": 0.065
+        }
+    },
+    "volume": 1.0
+}

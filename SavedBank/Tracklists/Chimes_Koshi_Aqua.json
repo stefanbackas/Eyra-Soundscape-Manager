@@ -1,0 +1,18 @@
+{
+    "files": [
+        "Chimes_Koshi_Aqua_1min_1.mp3",
+        "Chimes_Koshi_Aqua_5min_3.mp3"
+    ],
+    "fadetime": 3,
+    "slotfadetime": 10,
+    "volume": 0.065,
+    "loop": true,
+    "randomize": true,
+    "color": "#000000",
+    "primary_group": null,
+    "groups": [
+        "Chimes_2"
+    ],
+    "_source": "ProjectFolder",
+    "pools": []
+}

@@ -1,0 +1,28 @@
+{
+    "intervals": [
+        "22:32:00>22:34:00"
+    ],
+    "tracklist": "Hapi_BASE",
+    "group": "Ingen",
+    "pool": "Ingen",
+    "loop": false,
+    "randomize": false,
+    "weekdays": [
+        "*"
+    ],
+    "months": [
+        "*"
+    ],
+    "weeks": [
+        "*"
+    ],
+    "years": [
+        "*"
+    ],
+    "start_second": "0",
+    "stop_second": "*",
+    "start_minute": "0",
+    "stop_minute": "*",
+    "start_time": 0,
+    "end_time": 0
+}

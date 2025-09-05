@@ -1,0 +1,28 @@
+{
+    "tracklists": [
+        "HimSingBigBowls_1",
+        "HimSingBigBowls_2",
+        "HimSingBigBowls_3",
+        "HimSingBigBowls_4"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "HimSingBigBowls_1": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "HimSingBigBowls_2": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "HimSingBigBowls_3": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "HimSingBigBowls_4": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        }
+    },
+    "volume": 1.0
+}

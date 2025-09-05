@@ -1,0 +1,119 @@
+{
+    "tracklists": {
+        "T1": {
+            "fadetime": 2,
+            "slotfadetime": 4,
+            "volume": 10,
+            "loop": true,
+            "randomize": true,
+            "files": [
+                "tr1"
+            ]
+        },
+        "T2": {
+            "fadetime": 0,
+            "slotfadetime": 0,
+            "volume": 10,
+            "loop": false,
+            "randomize": true,
+            "files": [
+                "tr2"
+            ]
+        },
+        "T3": {
+            "fadetime": 0,
+            "slotfadetime": 0,
+            "volume": 10,
+            "loop": true,
+            "randomize": true,
+            "files": [
+                "tr3"
+            ]
+        },
+        "T4": {
+            "fadetime": 0,
+            "slotfadetime": 0,
+            "volume": 10,
+            "loop": false,
+            "randomize": true,
+            "files": [
+                "tr4"
+            ]
+        }
+    },
+    "groups": {
+        "G1": {
+            "tracklists": [
+                "T1",
+                "T2"
+            ],
+            "groups": []
+        },
+        "G2": {
+            "tracklists": [
+                "T3",
+                "T4"
+            ],
+            "groups": []
+        },
+        "G3": {
+            "tracklists": [
+                "G1",
+                "G2"
+            ],
+            "groups": []
+        }
+    },
+    "pools": {
+        "P1": {
+            "tracklists": [
+                "T1",
+                "T2",
+                "T3",
+                "T4"
+            ],
+            "groups": [],
+            "randomize": true
+        },
+        "P2": {
+            "tracklists": [],
+            "groups": [
+                "G1",
+                "G2",
+                "G3"
+            ],
+            "randomize": true
+        }
+    },
+    "slots": {
+        "S1": {
+            "intervals": [
+                {
+                    "start": "08:00:00",
+                    "end": "16:00:00"
+                }
+            ],
+            "tracklist": null,
+            "group": null,
+            "pool": "P1",
+            "loop": false,
+            "randomize": false,
+            "slot_type": "Timeslot"
+        },
+        "S2": {
+            "intervals": [
+                {
+                    "start": "16:00:00",
+                    "end": "23:00:00"
+                }
+            ],
+            "tracklist": null,
+            "group": null,
+            "pool": "P2",
+            "loop": false,
+            "randomize": false,
+            "slot_type": "Timeslot"
+        }
+    },
+    "master_volume": 100
+}

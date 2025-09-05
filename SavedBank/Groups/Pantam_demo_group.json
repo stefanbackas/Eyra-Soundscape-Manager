@@ -1,0 +1,53 @@
+{
+    "tracklists": [
+        "Pantam_BASE",
+        "Pantam_1",
+        "Pantam_2",
+        "Pantam_3",
+        "Pantam_4",
+        "Pantam_5",
+        "Pantam_6",
+        "Pantam_7",
+        "Pantam_8"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "Pantam_BASE": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_1": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_2": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_3": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_4": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_5": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_6": {
+            "original_volume": 0.01,
+            "volume": 0.01
+        },
+        "Pantam_7": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        },
+        "Pantam_8": {
+            "original_volume": 0.05,
+            "volume": 0.05
+        }
+    },
+    "volume": 1.0
+}

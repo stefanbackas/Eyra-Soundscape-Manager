@@ -1,0 +1,27 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "tr1",
+      "fadetime": 0,
+      "slotfadetime": 0,
+      "volume": 0.045,
+      "loop": false,
+      "randomise": false,
+      "items": []
+    },
+    {
+      "type": "Group",
+      "id": "gr1",
+      "items": [
+        "tr1"
+      ]
+    }
+  ],
+  "Slots" : [],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 84
+    }
+  ]
+}

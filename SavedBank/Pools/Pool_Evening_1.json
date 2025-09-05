@@ -1,0 +1,12 @@
+{
+    "tracklists": [
+        "EmptyGroup_2"
+    ],
+    "groups": [
+        "HapiGroup_1",
+        "PantamGroup_1"
+    ],
+    "randomize": true,
+    "color": "#000000",
+    "_source": "ProjectFolder"
+}

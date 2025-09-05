@@ -1,0 +1,83 @@
+{
+  "Soundblocks" : [
+    {
+      "type": "Tracklist",
+      "id": "tr",
+      "fadetime": 1,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2019-04-27_001.mp3",
+        "2019-04-27_002.mp3",
+        "2019-04-27_003.mp3",
+        "2019-04-27_004.mp3",
+        "2022-05-25_001.mp3",
+        "2022-05-25_002.mp3",
+        "2022-05-25_003.mp3",
+        "2022-05-25_004.mp3",
+        "2022-05-25_005.mp3",
+        "2022-05-25_006.mp3",
+        "2022-05-25_007.mp3",
+        "2022-05-25_008.mp3",
+        "2022-05-25_009.mp3"
+      ]
+    },
+    {
+      "type": "Tracklist",
+      "id": "NatureMorning_Medium",
+      "fadetime": 15,
+      "slotfadetime": 30,
+      "volume": 0.1,
+      "loop": true,
+      "randomise": true,
+      "items": [
+        "2019-04-27_001.mp3",
+        "2019-04-27_002.mp3",
+        "2019-04-27_003.mp3",
+        "2019-04-27_004.mp3",
+        "2022-05-25_001.mp3",
+        "2022-05-25_002.mp3",
+        "2022-05-25_003.mp3",
+        "2022-05-25_004.mp3",
+        "2022-05-25_005.mp3",
+        "2022-05-25_006.mp3",
+        "2022-05-25_007.mp3",
+        "2022-05-25_008.mp3",
+        "2022-05-25_009.mp3"
+      ]
+    },
+    {
+      "type": "Group",
+      "id": "gr",
+      "items": [
+        "NatureMorning_Medium"
+      ]
+    },
+    {
+      "type": "Pool",
+      "id": "poo",
+      "randomize": true,
+      "items": [
+        "NatureMorning_Medium",
+        "gr"
+      ]
+    }
+  ],
+  "Slots" : [
+    {
+      "id": "slot",
+      "type": "Timeslot",
+      "slotexpression": "* * 05:00:00>23:00:00 * * * *",
+      "items": [
+        "poo"
+      ]
+    }
+  ],
+  "SoundscapeSettings" : [
+    {
+      "Volume": 100
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "tracklists": [
+        "HimalayanTrio_1",
+        "HimalayanTrio_2",
+        "HimalayanTrio_3",
+        "HimalayanTrio_4"
+    ],
+    "groups": [],
+    "tracklists_data": {
+        "HimalayanTrio_1": {
+            "original_volume": 8,
+            "volume": 8
+        },
+        "HimalayanTrio_2": {
+            "original_volume": 7,
+            "volume": 7
+        },
+        "HimalayanTrio_3": {
+            "original_volume": 8,
+            "volume": 8
+        },
+        "HimalayanTrio_4": {
+            "original_volume": 7,
+            "volume": 7
+        }
+    },
+    "volume": 1.0
+}

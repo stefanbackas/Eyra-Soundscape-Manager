@@ -1,0 +1,22 @@
+{
+    "files": [
+        "HimSing_Db_1.mp3",
+        "HimSing_Db_2.mp3",
+        "HimSing_Db_3.mp3",
+        "HimSing_Eb_1.mp3",
+        "HimSing_Eb_2.mp3",
+        "HimSing_Eb_3.mp3",
+        "HimSing_G_1.mp3",
+        "HimSing_G_2.mp3",
+        "HimSing_G_3.mp3",
+        "Empty_12sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3",
+        "Empty_4sec.mp3"
+    ],
+    "fadetime": 8,
+    "slotfadetime": 20,
+    "volume": 8,
+    "loop": true,
+    "randomize": true
+}
