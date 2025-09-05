@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+
+# VS Code / IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# Python cache & bygg
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+*.egg-info/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+
+# Virtuella miljöer
+.venv/
+venv/
+eyra_env/
+eyra_env_brew/
+
+# Loggar & temporärt
+*.log
+logs/
+tmp/
+temp/
+
+# Packning / builds (om du använder PyInstaller el. likn.)
+build/
+dist/
+*.spec
+
+# Stora datafiler (lägg inte tunga ljud i repo)
+*.wav
+*.aiff
+*.aif
+*.flac
+*.mp3
+*.ogg
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.iso
+
+# Databaser m.m.
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Ta med endast senaste Eyra_UI
+Eyra_UI_v*.py
+!Eyra_UI_v1.939.py
